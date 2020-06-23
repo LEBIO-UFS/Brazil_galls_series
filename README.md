@@ -1,4 +1,4 @@
-# Brazil_galls_series
-Insect Galls-Host Plants in Biomes Series
-PLANT-GALLING INSECT INTERACTIONS: A DATA SET OF HOST PLANTS AND THEIR GALL-INDUCING INSECTS FOR THE CERRADO
+# Brazil_galls_series.
+Insect Galls-Host Plants in Biomes Series.
+PLANT-GALLING INSECT INTERACTIONS: A DATA SET OF HOST PLANTS AND THEIR GALL-INDUCING INSECTS FOR THE CERRADO.
 Recent decades have seen increased research interest in the processes and mechanisms related to insect gall richness and host plants. The data set provided here includes 968 records of interactions between galling insects and host plants for the Cerrado biome. The data set comprises 505 species of 222 genera and 67 families of host plants. The botanical families most represented in the data set are Asteraceae, Fabaceae, Myrtaceae, Malpighiaceae and Melastomataceae, which account for ca. 48.5% of all records and 52% of the total number of species. The gall-inducing insects listed in the data set include 48 species of Cecidomyiidae and one species of Tephritidae. This data set is the first to compile inventories of plant-galling insect communities and information about the diversity and distribution of insect galls and their host plants in the Cerrado. The data set reveals knowledge gaps and opportunities for future research on patterns of diversity and distribution, and provides a basis for generating and testing new ecological hypotheses.
